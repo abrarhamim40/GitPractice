@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		176388082D55DE4000AE922A /* GitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		176388082D55DE4000AE922A /* GitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = GitPractice.app; path = "/Users/beyond_2/Desktop/GItPractice1/GitPractice/build/Debug-iphoneos/GitPractice.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1763880A2D55DE4000AE922A /* GitPractice */ = {
+		1763882C2D55E1EA00AE922A /* GitPractice */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = GitPractice;
 			sourceTree = "<group>";
@@ -32,17 +32,8 @@
 		176387FF2D55DE4000AE922A = {
 			isa = PBXGroup;
 			children = (
-				1763880A2D55DE4000AE922A /* GitPractice */,
-				176388092D55DE4000AE922A /* Products */,
+				1763882C2D55E1EA00AE922A /* GitPractice */,
 			);
-			sourceTree = "<group>";
-		};
-		176388092D55DE4000AE922A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				176388082D55DE4000AE922A /* GitPractice.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -61,7 +52,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1763880A2D55DE4000AE922A /* GitPractice */,
+				1763882C2D55E1EA00AE922A /* GitPractice */,
 			);
 			name = GitPractice;
 			packageProductDependencies = (
@@ -95,7 +86,7 @@
 			mainGroup = 176387FF2D55DE4000AE922A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 176388092D55DE4000AE922A /* Products */;
+			productRefGroup = 176387FF2D55DE4000AE922A;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
