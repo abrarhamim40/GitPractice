@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		176388082D55DE4000AE922A /* GitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = GitPractice.app; path = "/Users/beyond_2/Desktop/GItPractice1/GitPractice/build/Debug-iphoneos/GitPractice.app"; sourceTree = "<absolute>"; };
+		1763883C2D55E36A00AE922A /* GitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				1763882C2D55E1EA00AE922A /* GitPractice */,
+				1763883C2D55E36A00AE922A /* GitPractice.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = GitPractice;
-			productReference = 176388082D55DE4000AE922A /* GitPractice.app */;
+			productReference = 1763883C2D55E36A00AE922A /* GitPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
